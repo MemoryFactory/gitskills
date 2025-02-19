@@ -2,3 +2,5 @@ Add a new file
 
 Add a new line from LZH(VM Linux)
 
+Creat a new branch quickly
+
